@@ -1,6 +1,5 @@
 Using Linear Discriminant Analysis to Predict Customer Churn
 ============================================================
-
 R
 ========================================================================================
 1. https://www.datascience.com/blog/predicting-customer-churn-with-a-discriminant-analysis
@@ -12,3 +11,4 @@ Python
 1. https://turi.com/learn/userguide/churn_prediction/quick-start.html
 2.http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 3.https://turi.com/learn/userguide/supervised-learning/logistic-regression.(*****)
+4.http://blog.keyrus.co.uk/a_simple_approach_to_predicting_customer_churn.html(*****)

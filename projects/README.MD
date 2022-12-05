@@ -107,6 +107,6 @@ Streamlite is the easiest way to deploy a Python based AI project and this can b
 [Video Link Part 2](https://www.youtube.com/watch?v=juJYmc4vrWU&list=PLg8h8Ej1e8l1o43qy19MluTYFxLpDv82A&index=2)
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
-**We have shared machine learning project descriptions and videos links.
+**We have shared machine learning project descriptions and videos links.**
 
-If you are looking any help in machine learning projects or assignments contact us : contact@codersarts.com**
+If you are looking any help in machine learning projects or assignments contact us : contact@codersarts.com

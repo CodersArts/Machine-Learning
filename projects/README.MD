@@ -1,6 +1,7 @@
 # Machine learning projects
 
-Machine learning Projects 
+#Machine learning Projects 
+
 In this Article, we will introduce you to some  machine learning projects. We created a list of innovative and interesting machine learning projects and explained it in detail in the videos for those students, who are passionate about machine learning and want to learn. 
 Machine learning is a method of data analysis that automates analytical model building. It is the technique of artificial intelligence based on the idea that a model can learn from data, identify the pattern and give the decision with minimal human intervention. 
 How should student build Machine Learning project

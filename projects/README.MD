@@ -78,11 +78,11 @@ Streamlite is the easiest way to deploy a Python based AI project and this can b
 [Required Documentation](https://keras.io/api/layers/)
 
 ## Title : BRAIN TUMOUR DETECTION Project Part 1 | AI ML Project Series
-**Description :** This is the introduction part of BRAIN TUMOUR DETECTION Project where we provide the details and procedures of the coming project that we will build in Part2 of this Series. This is based on classification of an image  to know if the MRI image shows any signs of brain tumour or not and if yes, what kind of tumour. The result will be able to help the doctors to analyse the mri images to know the tumour state in the brain. 
+**Description :** This is the introduction part of BRAIN TUMOUR DETECTION Project where we provide the details and procedures of the coming project that we will build in Part2 of this Series. This is based on classification of an image  to know if the MRI image shows any signs of brain tumour or not and if yes, what kind of tumour. The result will be able to help the doctors to analyse the mri images to know the tumour state in the brain.  
 [Video Link Part 1](https://www.youtube.com/watch?v=lHYXcwJ9i-I&list=PLg8h8Ej1e8l1o43qy19MluTYFxLpDv82A&index=1)
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 ## Title : BRAIN TUMOUR DETECTION Project Part 2 | AI ML Project Series
-**Description :** This is the second part of the BRAIN TUMOUR DETECTION Project where we create a complete project on Kaggle Community Platform regarding classification of MRI images into types of Brain tumour or no tumour based on training data. We use Data directory flow, Convolutional Neural Network from Keras and Sequential Model along with OpenCV for creation of our model. As a result we will be able to predict accurately whether the MRI image shows any tumour or not.
+**Description :** This is the second part of the BRAIN TUMOUR DETECTION Project where we create a complete project on Kaggle Community Platform regarding classification of MRI images into types of Brain tumour or no tumour based on training data. We use Data directory flow, Convolutional Neural Network from Keras and Sequential Model along with OpenCV for creation of our model. As a result we will be able to predict accurately whether the MRI image shows any tumour or not.  
 [Video Link Part 2](https://www.youtube.com/watch?v=juJYmc4vrWU&list=PLg8h8Ej1e8l1o43qy19MluTYFxLpDv82A&index=2)
 [Kaggle Dataset Link](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 

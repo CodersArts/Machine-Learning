@@ -1,12 +1,16 @@
 # Machine learning projects
 
-#Machine learning Projects 
+# Machine learning Projects 
 
 In this Article, we will introduce you to some  machine learning projects. We created a list of innovative and interesting machine learning projects and explained it in detail in the videos for those students, who are passionate about machine learning and want to learn. 
+
 Machine learning is a method of data analysis that automates analytical model building. It is the technique of artificial intelligence based on the idea that a model can learn from data, identify the pattern and give the decision with minimal human intervention. 
-How should student build Machine Learning project
-Aspiring machine learning students want to learn on machine learning projects but struggle hard to find interesting ideas and how to build the project. How should students build Machine learning projects, find data science or machine learning project ideas that motivate you, when deciding on a machine project to get started. You can decide the domain and dataset based on your interest. Size of the dataset and complexity of the dataset. If you are a fresher or a beginner, We recommend you get started with ML projects that focus on data cleaning and then move on to analytics, machine learning, and deep learning   
+
+## How should student build Machine Learning project
+Aspiring machine learning students want to learn on machine learning projects but struggle hard to find interesting ideas and how to build the project. How should students build Machine learning projects, find data science or machine learning project ideas that motivate you, when deciding on a machine project to get started. You can decide the domain and dataset based on your interest. Size of the dataset and complexity of the dataset. If you are a fresher or a beginner, We recommend you get started with ML projects that focus on data cleaning and then move on to analytics, machine learning and deep learning   
+
 Nowadays machine learning is more popular because computation is abundant and cheap. More professionals are pursuing careers in machine learning. One of the best ways to build a career in machine learning is developing a project. For that We have created a list of innovative and interesting machine learning projects and explained it in detail in the videos for those students, who are passionate about machine learning and want to learn. 
+
 If you are passionate about machine learning and want to know how to build machine learning projects, you must watch our videos. In this article we have shared detailed information about each project and link of the videos. 
 
 Top Machine Learning Projects for Begginers  

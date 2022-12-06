@@ -13,5 +13,5 @@ Support Vector Machine (Linear) (Scikit-learn)
 Random Forest (Scikit-learn)
 
 Dataset used: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
-[Part 1 Video](https://www.youtube.com/watch?v=DoEnFkZ-_44&list=PLg8h8Ej1e8l3LCo3YGlNT1bGmftRziRDT&index=1)
-[Part 2 Video](https://www.youtube.com/watch?v=Y7C5ThPONCw&list=PLg8h8Ej1e8l3LCo3YGlNT1bGmftRziRDT&index=2)
+Video 1 https://www.youtube.com/watch?v=DoEnFkZ-_44&list=PLg8h8Ej1e8l3LCo3YGlNT1bGmftRziRDT&index=1
+Video 2 https://www.youtube.com/watch?v=Y7C5ThPONCw&list=PLg8h8Ej1e8l3LCo3YGlNT1bGmftRziRDT&index=2

@@ -11,7 +11,7 @@ Machine Learning algorithms used:
 * Logistic Regression (Scikit-learn)  
 * Support Vector Machine (Linear) (Scikit-learn) 
 * KNN
-* Random Forest (Scikit-learn)  
+* Random Forest (Scikit-learn)   
 
 
 Dataset used: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset  

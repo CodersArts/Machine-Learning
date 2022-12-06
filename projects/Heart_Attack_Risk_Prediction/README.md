@@ -9,7 +9,8 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 Machine Learning algorithms used:
 
 * Logistic Regression (Scikit-learn)  
-* Support Vector Machine (Linear) (Scikit-learn)  
+* Support Vector Machine (Linear) (Scikit-learn) 
+* KNN
 * Random Forest (Scikit-learn)  
 
 

@@ -1,6 +1,6 @@
 
 # Credit-Card-Risk-Prediction-in-Python
-Credit risk modeling–the process of estimating the probability someone will pay back a loan–is one of the most important mathematical problems of the modern world. In this article, we’ll explore from the ground up how machine learning is applied to credit risk modeling.  
+Credit risk modeling–the process of estimating the probability someone will pay back a loan–is one of the most important mathematical problems of the modern world. In this article, we’ll explore from the ground up how machine learning is applied to credit risk modeling.    
 
 In this project used Machine Learning algorithms, implemented in Python, to predict the Credit Card Risk. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting the credit card risk. 
 

@@ -8,9 +8,10 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 Machine Learning algorithms used:
 
-Logistic Regression (Scikit-learn)
-Support Vector Machine (Linear) (Scikit-learn)
-Random Forest (Scikit-learn)
+Logistic Regression (Scikit-learn)  
+Support Vector Machine (Linear) (Scikit-learn)  
+Random Forest (Scikit-learn)  
+
 
 Dataset used: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset  
 Video 1 https://www.youtube.com/watch?v=DoEnFkZ-_44&list=PLg8h8Ej1e8l3LCo3YGlNT1bGmftRziRDT&index=1  

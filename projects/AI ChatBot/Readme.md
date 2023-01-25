@@ -9,5 +9,5 @@ This project can be used in many areas such as customer service, personal assist
 
 Video Tutorial Link : 
 
-Creating smart AI Chatbot from scratch: Step by Step Guide to Building your own AI Assistant Part I : https://www.youtube.com/watch?v=lI1dQwGg5gY&list=PLg8h8Ej1e8l0TirZqqmkI4XcrpVD7Kalt&index=1
-Creating smart AI Chatbot from scratch: Step by Step Guide to Building your own AI Assistant Part II : https://www.youtube.com/watch?v=FlAdHgpu7S0&list=PLg8h8Ej1e8l0TirZqqmkI4XcrpVD7Kalt&index=2
+Creating smart AI Chatbot from scratch: Step by Step Guide to Building your own AI Assistant Part I : https://www.youtube.com/watch?v=lI1dQwGg5gY&list=PLg8h8Ej1e8l0TirZqqmkI4XcrpVD7Kalt&index=1  
+Creating smart AI Chatbot from scratch: Step by Step Guide to Building your own AI Assistant Part II : https://www.youtube.com/watch?v=FlAdHgpu7S0&list=PLg8h8Ej1e8l0TirZqqmkI4XcrpVD7Kalt&index=2    

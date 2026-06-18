@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine learning related works and assignment
+Machine learning related works and assignments.Focus on learning
 
 
 ## Machine Learning Projects
